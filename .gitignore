@@ -1,0 +1,5 @@
+Pipfile.lock
+prod.env
+mysql
+__pycache__/
+*.pyc
